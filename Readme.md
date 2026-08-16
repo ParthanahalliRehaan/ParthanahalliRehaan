@@ -1,4 +1,7 @@
 ![Diagram](andrew6rant_Thnks.png)
+
+---
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/scrimba/ffffff" width="44" alt="Scrimba" />
   <h1>REHAAN PARTHANAHALLI</h1>
