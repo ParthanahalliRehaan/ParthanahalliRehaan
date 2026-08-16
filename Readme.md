@@ -1,33 +1,4 @@
-```                                                                                                                           
-   |--------------------------------------|  parthanahalli@rehaan ----------------------------------------    -----------    ---------------------|
-              ![kkpN%M%MbHk*n,            | - Human ------——————————————————————————————————————           ————————-------------------      -—----\
-          ;^kb%%%%%%%%%%%%%%%%Hw|         |  . Human.Zodiac: Taurus! ( 𓄀 )                                                                         
-        :kmm%@@%%~~@#@@@@@@@%%@@%mk|      |  . Human.UpTime: 169200 Hours
-      'kpmgb%@%d@@@@@@%%@@@@@%@%%@%gk,    |  . OS: Humans OS, Pop_OS!, Windows 11, MIUI
-      HmMWpm@%%@@@@@@M%%@@@@@%@@@gM%%%j   |  . IDE: Human Brain, VS Code, Cursor, Kiro, Warp
-     ]%%%%%MggM%@@%%%%%%%%@%%%%@@%%@%@%j  | - Code Cortex -——————————————————————————————————————           ————————-------------------      -—---/
-     *@@%@%%Mm%%%@@%@@@@@@%@%%%@@@Mg%@@m  |  . Human.Language: English, Broken Japanese, Hindi, Kannada
-     *@@%NNNpppkkkkggpH=jr]]^]]w*h%@%@%m  |  . Programming.Languages: JS, C++, Java
-     [@@%H="L|`                 ,jk%@@%k  |  . Future.Programming.Languages: GDScript, TS, Go
-     |%%%ki:`.                 ',|lp@%%j  |  . Programming.Languages.Environment: Node, Hono
-    `'H%M{|l|                   '||wM@m,  |  . DataBases: Oracle 26ai
-    `'im[j*kkk*j'            !j*kkkrj@*'  |  . Remote.DataBases: Supabase
-    `  ];';jwxkkHkkn      [kHHkw/nL}|='   |  . Cloud: Cloudflare workers & Pages, Render
-    .  j,  ,k||*; ||j   ,j|''y".w/' |;    | - Hobbies -——————————————————————————————————————————————---------------------------------      -—----|
-    .` `|    '      `    '          ;` '  |  . Human.Hobbies : Minecraft, RLCraft, F1 2020, Tomb Raider, CS:GO
-    '','|,                          |.',  | - Expertise -——————————————————————————————————————————————---------------------------------      ----\
-    ``:,|j.         `              ,! ,'  |  . Human.Expertise : Sniping(!irl), Strategic thinker(OverThink at each Node, in Thinking node tree)
-    `,,|lj,                       'ji!,`  |  . Job.Expertise : AI Engineer
-    ',;!|j!          |. `!        |Li|,,  |  . Future.Job.Expertise : Mixture of Game Developer & AI Engineer
-    '`;,|jj      l]"[]! ik""*j    lri|,,  |  . Game.Engines : Godot 4
-    '';||j]j'    ,!|,,   `,`'    |rjl|;;  |  
-    ',;|jjrw[;                 '|][jl|!;  | - Contact -——————————————————————————————————————————————---------------------------------      -—----/
-    `;|ijjkH|||`              ,i^][jj|||  |  . Email.Personal : . . . . . . . . . . . . . . . . . . . . . . . . . parthanahalli.rehaan@gmail.com
-    ,,|j]kmpj'`!|;`         .;|;@kj@#li|  |  
-    i{*H@@pp|j' .,|||||,`'''' '|g@MRk"@#j |  . LinkedIn       : . . . . . . . . . . . . . . . . . . . . . . . . . @ # % $ * Rehaan Parthanahalli
-    i{*H@@pp|j' .,|||||,`'''' '|g@M\0@#4kl|  . Discord        : . . . . . . . . . . . . . . . . . . . . . . . . . @ # % $ ** rehaanparthanahalli
-   |--------------------------------------|  ------- ----------------------------------------    -----------    --------               -----------|
-```
+![Diagram](andrew6rant_Thnks.png)
 ---
 <div align="center">
   <img src="https://cdn.simpleicons.org/scrimba/F5A623" width="44" alt="Scrimba" />
